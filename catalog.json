@@ -1,0 +1,15 @@
+{
+  "artworks": [
+    {
+      "id": "fairy_mushroom_01",
+      "title": "Forest Fairy & Mushroom",
+      "category": "Cozy & Hygge",
+      "difficulty": "Relaxed",
+      "preview": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/cozy_mushroom_thumb.png",
+      "lineArtUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/cozy_mushroom_lines.png",
+      "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/cozy_mushroom_regions.json",
+      "palette": ["#E07A5F", "#3D405B", "#81B29A", "#F2CC8F", "#F4F1DE"],
+      "totalRegions": 5
+    }
+  ]
+}
