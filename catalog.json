@@ -4,18 +4,20 @@
       "id": "baby_fox",
       "title": "Baby Fox Sunflower",
       "category": "Cute Animals",
-      "difficulty": "84 Parts",
+      "difficulty": "29 Parts",
       "preview": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_fox_preview.png",
       "lineArtUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_fox_lines.png",
       "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_fox_regions.json",
       "palette": [
-        "#FB7844",
-        "#E9E5E1",
-        "#FA7844",
-        "#E9E5E0",
-        "#E9E4E0"
+        "#FA701A",
+        "#F9701A",
+        "#F96F1A",
+        "#FA6F1A",
+        "#FA6F1B",
+        "#F96F1B",
+        "#FA701B"
       ],
-      "totalRegions": 84
+      "totalRegions": 29
     },
     {
       "id": "fairy_mushroom_01",
