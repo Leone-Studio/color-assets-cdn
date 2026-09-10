@@ -1,6 +1,24 @@
 {
   "artworks": [
     {
+      "id": "reindeer_raccoon",
+      "title": "Festive Reindeer Raccoon",
+      "category": "Holiday Animals",
+      "difficulty": "17 Parts",
+      "preview": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/reindeer_raccoon_preview.png",
+      "lineArtUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/reindeer_raccoon_lines.png",
+      "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/reindeer_raccoon_regions.json",
+      "palette": [
+        "#8E8689",
+        "#E1DFDD",
+        "#534A4C",
+        "#312A2B",
+        "#B4B4B4",
+        "#D53D3F"
+      ],
+      "totalRegions": 17
+    },
+    {
       "id": "baby_otter",
       "title": "Playful Baby Otter",
       "category": "Cute Animals",
