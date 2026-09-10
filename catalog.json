@@ -10,12 +10,11 @@
       "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_fox_regions.json",
       "palette": [
         "#FA701A",
-        "#F9701A",
-        "#F96F1A",
-        "#FA6F1A",
-        "#FA6F1B",
-        "#F96F1B",
-        "#FA701B"
+        "#FFE50E",
+        "#BFDB2D",
+        "#632989",
+        "#F75349",
+        "#787777"
       ],
       "totalRegions": 29
     },
