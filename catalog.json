@@ -1,6 +1,42 @@
 {
   "artworks": [
     {
+      "id": "baby_otter",
+      "title": "Playful Baby Otter",
+      "category": "Cute Animals",
+      "difficulty": "22 Parts",
+      "preview": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_otter_preview.png",
+      "lineArtUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_otter_lines.png",
+      "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/baby_otter_regions.json",
+      "palette": [
+        "#F74420",
+        "#1B3960",
+        "#E3B19B",
+        "#A03019",
+        "#4F1B11",
+        "#CF3A1A"
+      ],
+      "totalRegions": 22
+    },
+    {
+      "id": "birthday_raccoon",
+      "title": "Birthday Party Raccoon",
+      "category": "Cute Animals",
+      "difficulty": "34 Parts",
+      "preview": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/birthday_raccoon_preview.png",
+      "lineArtUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/birthday_raccoon_lines.png",
+      "regionsDataUrl": "https://raw.githubusercontent.com/Leone-Studio/color-assets-cdn/main/artworks/birthday_raccoon_regions.json",
+      "palette": [
+        "#E9E9E9",
+        "#195189",
+        "#EB676F",
+        "#CFCFCF",
+        "#C1565E",
+        "#B6B6B6"
+      ],
+      "totalRegions": 34
+    },
+    {
       "id": "baby_fox",
       "title": "Baby Fox Sunflower",
       "category": "Cute Animals",
